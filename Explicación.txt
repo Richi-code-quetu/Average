@@ -1,0 +1,7 @@
+Esta es una explicación del ejercicio. Basado en la página de programación competitiva Beecrowd
+Leer 4 números (N1, N2, N3, N4) cada uno con un dígito después del punto decimal, correspondientes a los puntajes obtenidos por un estudiante.
+Calcular el promedio con peso 2, 3, 4 y 1 respectivamente. Imprimir el mensaje "Media: " seguido del resultado calculado.
+Si el promedio fue 7.0 o más, imprimir el mensaje "Aluno aprovado". Si el promedio fue 4.9 o menos, imprimir el mensaje "Aluno reprovado". Si el promedio fue entre 5.0 y 6.9, el programa debe imprimir "Aluno em exame".
+En caso de examen, leer un nuevo número decimal. Imprimir el mensaje "Nota do exame: " seguido del número ingresado. 
+Recalcular el promedio anterior con la nota del examen y sacar el nuevo promedio e imprimir en consola "Aluno aprovado." Si el promedio es de 5.0 o más y "Aluno reprovado" en caso de que el promedio sea 4.9 o menos.
+Para ambos casos imprimir el mensaje "Media final: " seguido del promedio final para el estudiante.
